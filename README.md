@@ -15,6 +15,6 @@
 
 <h3 align="left">My bootcamp projects:</h3>
 <ul>
-  <li><a style="text-decoration: none" href="https://github.com/hhu4u/easy_order-pick_it_easy">Pick It Easy</a>A web app enabling online ordering and payment by scanning a QR code placed on the table at a hospitality establishment</li>
-  <li><a style="text-decoration: none" href="https://github.com/hhu4u/-vip_islands">VIP Islands</a>: an Airbnb clone</li>
+  <li><a href="https://github.com/hhu4u/easy_order-pick_it_easy">Pick It Easy</a>: a web app enabling online ordering and payment by scanning a QR code placed on the table at a hospitality establishment</li>
+  <li><a href="https://github.com/hhu4u/-vip_islands">VIP Islands</a>: an Airbnb clone</li>
 </ul>
