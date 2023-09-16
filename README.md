@@ -2,6 +2,8 @@
 <h3 align="center">A junior full-stack developer from Brussels, Belgium</h3>
 
 - 📫 How to reach me **hervehublet@hotmail.com**
+- 🌱 I’m currently learning **React**
+- 👀 I’m currently looking for an internship / job
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
